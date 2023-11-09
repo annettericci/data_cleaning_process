@@ -1,4 +1,5 @@
-High-level data cleaning steps for Excel   
+High-level data cleaning steps for Excel 
+Notes from (Dataquest Introduction to Data Analysis with Excel)[https://app.dataquest.io/learning-path/introduction-to-data-analysis-with-excel-skill] mixed with my own notes for my personal reference.  
 
 ### 1) Finding and removing duplicate data
   - One quick way to **identify** duplicate rows is to first select the entire range of data (using CTRL+A works well for this). Then, you would go to Data, Sort & Filter, Advanced. Check the box in the lower left that says 'Unique records only'.  
