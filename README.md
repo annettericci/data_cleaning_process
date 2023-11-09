@@ -1,4 +1,5 @@
 High-level data cleaning steps for Excel  
+
 Notes from (Dataquest Introduction to Data Analysis with Excel)[https://app.dataquest.io/learning-path/introduction-to-data-analysis-with-excel-skill] mixed with my own notes for my personal reference.  
 
 ### 1) Finding and removing duplicate data
